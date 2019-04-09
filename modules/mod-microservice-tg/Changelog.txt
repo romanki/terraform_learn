@@ -1,0 +1,7 @@
+v0.0.2
+Features:
+  * FS-141 - Tagging of resources
+
+v0.0.1
+Features:
+  * Initial release
